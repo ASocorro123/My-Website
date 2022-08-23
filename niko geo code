@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <style media="screen">
+    nav{
+      background-color: #881c1c;
+      height: 60px;
+      margin: 0px;
+    }
+    .header{
+
+      text-align: center;
+    }
+    body{
+      margin: 0;
+
+    }
+
+    .pfp{
+      border-radius: 50%;
+      display: block;
+      margin-top: 20px;
+      margin-left: auto;
+      margin-right: auto;
+      width: 15%;
+      height: 15%;
+    }
+    .welcome{
+      color: white;
+      font-family: sans-serif;
+      font-size: 50px;
+      margin: auto;
+      margin-left: 50px;
+    }
+    .bio{
+      width: 50%;
+      text-align: center;
+      margin: auto;
+    }
+    ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111111;
+}
+
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Alex Socorro</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <nav>
+      <h1 class="welcome">Welcome</h1>
+
+    </nav>
+    <ul>
+  <li><a target="_blank" href="https://www.linkedin.com/in/alex-socorro/">Linkedin</a></li>
+  <li><a target="_blank" href="https://www.instagram.com/a_socorro/">Instagram</a></li>
+  <li><a target="_blank" href="https://www.umass.edu/">My School</a></li>
+</ul>
+    <img class="pfp" src="https://media-exp1.licdn.com/dms/image/C4D03AQFbIswo8uFBSQ/profile-displayphoto-shrink_200_200/0/1658953004540?e=1666828800&v=beta&t=NpnOZS2o6nAafpdKA-N8iuCgZ7mRDfcnqDQNyJm2bWc" alt="Alex img">
+    <h1 class="header">Hello I'm Alex, this is my page</h1>
+    <p class="bio">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tincidunt sit amet quam vitae auctor. Etiam convallis dictum condimentum. Maecenas eleifend, sapien vel sagittis rhoncus, dui massa viverra ipsum, sit amet lacinia erat arcu vitae nisl. Morbi dictum tempor risus, sed aliquet ante euismod at. Suspendisse at ultrices arcu. Duis congue fermentum eleifend. Phasellus aliquet velit magna, non bibendum nisl feugiat at. Donec id fermentum dolor, at tincidunt lectus. <br><br><p class="bio">Integer mattis ante eget pulvinar rutrum. Suspendisse tristique consequat sem. Phasellus iaculis congue dapibus. Phasellus suscipit metus a interdum accumsan.
+
+Fusce tristique justo sit amet ipsum gravida rhoncus. Nam lobortis augue eu nunc mattis vehicula. Praesent sit amet nunc sem. Cras auctor ex quis dui sollicitudin luctus. Ut luctus mattis erat in efficitur. Vivamus convallis, est vel semper mollis, est quam varius libero, in ultrices nisl lorem nec turpis. Nunc feugiat tristique posuere. Etiam mattis imperdiet metus, at ultricies neque. Proin volutpat lorem enim, eu aliquet neque venenatis vel. Mauris lacinia tincidunt egestas. Fusce sit amet odio quis sapien blandit vestibulum.</p>
+<br><p class="bio">Sed luctus ut erat at blandit. Phasellus vel tincidunt purus. Morbi ultrices diam vel mi hendrerit congue a nec leo. Fusce eu orci tellus. Quisque at tortor posuere, fermentum magna id, luctus neque. Aliquam erat volutpat. Donec ut urna nibh. Nunc vel pulvinar eros.
+
+Nunc aliquam hendrerit accumsan. Curabitur rhoncus tellus augue, quis pellentesque tortor tincidunt vitae. Proin sed tempor arcu, volutpat elementum urna. Morbi in imperdiet lectus, sit amet fringilla turpis. Ut pharetra metus quis sodales consequat. Donec sagittis mi massa, vel vestibulum ligula varius id. Morbi consectetur posuere commodo. Donec elit risus, tristique eget bibendum a, pharetra in augue.
+
+Proin aliquet orci vel dolor tristique dignissim. Nam eget eros non ipsum convallis vulputate. Vestibulum et felis id libero dignissim laoreet quis ac sem. Vivamus at mauris tellus. Sed eu sapien at dui auctor suscipit at vel nulla. Curabitur porttitor vitae lectus et lacinia. Nullam lacinia egestas nunc sit amet condimentum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut gravida varius massa, nec vulputate felis placerat ut. Curabitur justo elit, commodo ut feugiat et, pulvinar quis erat. Vestibulum velit mi, dignissim aliquam arcu convallis, commodo aliquet augue. Suspendisse gravida justo id nisl consequat hendrerit. Pellentesque cursus ornare quam, et hendrerit nisi placerat id. Mauris finibus magna risus, vitae dapibus metus interdum sed. Nullam vitae sem neque. Integer ac lorem sit amet massa dapibus varius nec vitae enim.</p>
+
+</p>
+	<script src="index.js"></script>
+  </body>
+</html>
